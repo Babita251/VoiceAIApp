@@ -34,7 +34,8 @@ Current implementation uses a mock JSON response:
 
 ## 📸 Screenshots
 
-<img width="1206" height="2622" alt="screen1" src="https://github.com/user-attachments/assets/b1a2b6b9-a207-4955-840e-c27aeebaf6b8" />
+<img width="1206" height="2622" alt="screen1" src="https://github.com/user-attachments/assets/60e757b5-0dc0-4ed3-80ff-821e4bfbf6eb" />
 
-<img width="1206" height="2622" alt="screen2" src="https://github.com/user-attachments/assets/7e78437d-b9a9-4086-b1ff-fe6ffb27e797" />
+<img width="1206" height="2622" alt="screen2" src="https://github.com/user-attachments/assets/9df6beb2-f385-4702-804a-2e696f28c04b" />
+
 
